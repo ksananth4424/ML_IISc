@@ -1,0 +1,2 @@
+Number of epochs: 1, Learning rate: 0.009615
+Epoch 0: 0.186061
