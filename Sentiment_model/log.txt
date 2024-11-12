@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Number of epochs: 1, Learning rate: 0.074074
-Epoch 0: 0.117621
-=======
-Number of epochs: 1, Learning rate: 0.009434
-Epoch 0: 0.290451
->>>>>>> 0d3cb43b47e58319d87b07342a9f795c54b08896
